@@ -1,11 +1,4 @@
-# Projet rélaité virtuelle
-
-![alt text](https://github.com/miskinaaa/Mobile/blob/develop/Test/app/src/main/ic_icon-web.png) 
-
-
-
-MakeUP est une application Android qui utilise l'API Makeup pour afficher les rouges à lèvres, blush et concealer du moment.
-Lorsque l'on clique sur un article on peut voir la marque, le prix et la description du produit séléctionné.
+# Projet réalité virtuelle
 
 ### Installation : 
 * ``` git clone https://github.com/miskinaaa/projet-vr.git ``` ou télécharger le fichier .zip
