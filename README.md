@@ -9,6 +9,10 @@
 * Afficher des poulets lorsque l'on clique sur l'écran
 * Détecter des posters et afficher les modèles 3D
 
+### Lien du fichier APK
+
+* <a href="https://github.com/miskinaaa/projet-vr/blob/master/build.apk">Gson</a>
+
 
 ### Les posters : 
 
