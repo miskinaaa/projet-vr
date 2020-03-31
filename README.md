@@ -7,7 +7,7 @@
 ### Fonctionnalités : 
 * Mesurer la distance entre 2 objets
 * Afficher des poulets lorsque l'on clique sur l'écran
-* Détecter des posters et afficher les modèles 3D
+* Détecter des posters et afficher les modèles 3D associés
 
 ### Lien du fichier APK
 
