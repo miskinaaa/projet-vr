@@ -11,7 +11,7 @@
 
 ### Lien du fichier APK
 
-* <a href="https://github.com/miskinaaa/projet-vr/blob/master/build.apk">Gson</a>
+* <a href="https://github.com/miskinaaa/projet-vr/blob/master/build.apk">https://github.com/miskinaaa/projet-vr/blob/master/build.apk</a>
 
 
 ### Les posters : 
