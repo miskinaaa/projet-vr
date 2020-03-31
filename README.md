@@ -7,7 +7,7 @@
 ### Fonctionnalités : 
 * Mesurer la distance entre 2 objets
 * Afficher ds poulets lorsque l'on clique sur l'écran
-* Detecte des posters et affichent les modèles 3D
+* Détecter des posters et afficher les modèles 3D
 
 
 ### Les posters : 
